@@ -1,0 +1,10 @@
+aiosqlite=0.17.0=pypi_0
+bcrypt=4.0.1=pypi_0
+fastapi=0.92.0=pypi_0
+passlib=1.7.4=pypi_0
+pydantic=1.10.5=pypi_0
+sqlalchemy=2.0.4=pypi_0
+sqlite=3.40.1=h2bbff1b_0
+tortoise-orm=0.19.3=pypi_0
+typing-extensions=4.5.0=pypi_0
+uvicorn=0.20.0=pypi_0
