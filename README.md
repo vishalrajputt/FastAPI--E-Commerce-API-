@@ -61,8 +61,6 @@ Returns a JSON object with the following keys:
 ### Execute 
 ![Capture](https://user-images.githubusercontent.com/49341676/222263374-774cf490-10af-4d2a-825e-70ba93152e96.JPG)
 
-### Responses
-![image](https://user-images.githubusercontent.com/49341676/222263617-e99064eb-7edc-4275-9492-59f6fda37aba.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ![360_F_520484683_j4f2om7llvZD1aoL9HPZ2LmDeWWZoWK0](https://user-images.githubusercontent.com/49341676/222263855-76573757-fbd5-40de-bdbb-056d12774211.jpg)
